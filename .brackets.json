@@ -1,0 +1,10 @@
+{
+    "jscodehints.detectedExclusions": [
+        "C:/xampp/htdocs/sisVentas/gulpfile.js",
+        "C:/xampp/htdocs/sisVentas/vendor/phpunit/php-code-coverage/src/CodeCoverage/Report/HTML/Renderer/Template/js/respond.min.js",
+        "C:/xampp/htdocs/sisVentas/vendor/phpunit/php-code-coverage/src/CodeCoverage/Report/HTML/Renderer/Template/js/nv.d3.min.js",
+        "C:/xampp/htdocs/sisVentas/public/js/JsBarcode.all.min.js",
+        "C:/xampp/htdocs/sisVentas/vendor/phpunit/php-code-coverage/src/CodeCoverage/Report/HTML/Renderer/Template/js/html5shiv.min.js",
+        "C:/xampp/htdocs/sisVentas/vendor/phpunit/php-code-coverage/src/CodeCoverage/Report/HTML/Renderer/Template/js/holder.min.js"
+    ]
+}

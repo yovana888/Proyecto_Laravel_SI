@@ -1,0 +1,319 @@
+.INDIANRED{background-color: #CD5C5C;}
+.LIGHTCORAL{background-color: #F08080;}
+.SALMON{background-color: #FA8072;}
+.LIGHTSALMON{background-color: #FFA07A;}
+.CRIMSON{background-color: #DC143C;}
+.RED{background-color: #FF0000;}
+.ORANGERED{background-color: #FF4500;}
+.ORANGE{background-color: #FFA500;}
+.GOLD{background-color: #FFD700;}
+.YELLOW{background-color: #FFFF00;}
+.DARKRED{background-color: #8B0000;}
+/*fin de rojos*/
+/*inicio de rosas*/
+.PINK{background-color: #FFC0CB;}
+.HOTPINK{background-color: #FF69B4;}
+.DEEPPINK{background-color: #FF1493;}
+.MEDIUMVIOLETRED{background-color: #C71585;}
+.PALEVIOLETRED{background-color: #DB7093;}
+/*fin de rosas*/
+/*inicio de morados*/
+.LAVENDER{background-color: #E6E6FA;}
+.THISTLE{background-color:#D8BFD8;}
+.VIOLET{background-color: #EE82EE;}
+.FUCHSIA{background-color: #FF00FF;}
+.REBECCAPURPLE{background-color: #663399;}
+.BLUEVIOLET{background-color:#8A2BE2;}
+.DARKVIOLET{background-color: #9400D3;}
+.PURPLE{background-color: #800080;}
+.INDIGO{background-color: #4B0082;}
+.SLATEBLUE{background-color: #6A5ACD;}
+/*fin de morados*/
+/*inicio de azules y celestes*/
+.DEEPSKYBLUE{background-color: #00BFFF;}
+.CYAN{background-color: #00FFFF;}
+.TURQUOISE{background-color: #40E0D0;}
+.DODGERBLUE{background-color:#1E90FF;}
+.CADETBLUE{background-color:#5F9EA0;}
+.BLUE{background-color: #0000FF;}
+.DARKBLUE{background-color: #00008B;}
+.REBECCAPURPLE{background-color: #663399;}
+/*fin de azules y celestes*/
+/*inicio de verdes*/
+.TEAL{background-color: #008080;}
+.MEDIUMAQUAMARINE{background-color: #66CDAA;}
+.DARKSEAGREEN{background-color: #8FBC8B;}
+.DARKOLIVEGREEN{background-color:#556B2F;}
+.OLIVE{background-color:#808000;}
+.YELLOWGREEN{background-color:#9ACD32 ;}
+.GREEN{background-color:#008000;}
+.SEAGREEN{background-color: #2E8B57;}
+.MEDIUMSPRINGGREEN{background-color:#00FA9A ;}
+.LAWNGREEN{background-color:#7CFC00;}
+/*fin de verdes*/
+/*inicio de cafes*/
+.SIENNA{background-color: #A0522D;}
+.CHOCOLATE{background-color: #D2691E;}
+.PERU{background-color: #CD853F;}
+.DARKGOLDENROD{background-color:#B8860B;}
+.GOLDENROD{background-color:#DAA520;}
+.SANDYBROWN{background-color:#F4A460 ;}
+.ROSYBROWN{background-color:#BC8F8F;}
+.TAN{background-color: #D2B48C;}
+.NAVAJOWHITE{background-color:#FFDEAD ;}
+.BISQUE{background-color:#FFE4C4;}
+.WHITE{background-color:#F5F5F5;}
+/*fin de cafes*/
+/*inicio de grises*/
+.LIGHTGRAY{background-color: #D3D3D3;}
+.DARKGRAY{background-color: #A9A9A9;}
+.DIMGRAY{background-color: #696969;}
+.SLATEGRAY{background-color:#708090;}
+.DARKSLATEGRAY{background-color:#2F4F4F;}
+.BLACK{background-color:#000000 ;}
+
+/*fin de grises*/
+/*inicio de bicolor*/
+.BICOLOR1{background:linear-gradient(90deg, #FF0000 50%, #FF8C00 50%);}
+.BICOLOR2{background:linear-gradient(90deg, #FF0000 50%, #6B8E23 50%);}
+.BICOLOR3{background:linear-gradient(90deg, #FF0000 50%, #48D1CC 50%);}
+.BICOLOR4{background:linear-gradient(90deg, #FF0000 50%, #4169E1 50%);}
+.BICOLOR5{background:linear-gradient(90deg, #FF0000 50%, #FFC0CB 50%);}
+.BICOLOR6{background:linear-gradient(90deg, #FF0000 50%, #9932CC 50%);}
+.BICOLOR7{background:linear-gradient(90deg, #FF0000 50%, #C0C0C0 50%);}
+.BICOLOR8{background:linear-gradient(90deg, #FF0000 50%, #F5F5F5 50%);}
+.BICOLOR9{background:linear-gradient(90deg, #FF0000 50%, #FFFF00 50%);}
+.BICOLOR10{background:linear-gradient(90deg, #FF0000 50%, #000000 50%);}
+
+.BICOLOR11{background:linear-gradient(90deg, #FFA500 50%, #FFFF00 50%);}
+.BICOLOR12{background:linear-gradient(90deg, #FFA500 50%, #40E0D0 50%);}
+.BICOLOR13{background:linear-gradient(90deg, #FFA500 50%, #4169E1 50%);}
+.BICOLOR14{background:linear-gradient(90deg, #FFA500 50%, #FFC0CB 50%);}
+.BICOLOR15{background:linear-gradient(90deg, #FFA500 50%, #228B22 50%);}
+.BICOLOR16{background:linear-gradient(90deg, #FFA500 50%, #9932CC 50%);}
+.BICOLOR17{background:linear-gradient(90deg, #FFA500 50%, #A0522D 50%);}
+.BICOLOR18{background:linear-gradient(90deg, #FFA500 50%, #C0C0C0 50%);}
+.BICOLOR19{background:linear-gradient(90deg, #FFA500 50%, #F5F5F5 50%);}
+.BICOLOR20{background:linear-gradient(90deg, #FFA500 50%, #000000 50%);}
+
+.BICOLOR21{background:linear-gradient(90deg, #228B22 50%, #FFFF00 50%);}
+.BICOLOR22{background:linear-gradient(90deg, #228B22 50%, #40E0D0 50%);}
+.BICOLOR23{background:linear-gradient(90deg, #228B22 50%, #4169E1 50%);}
+.BICOLOR24{background:linear-gradient(90deg, #228B22 50%, #FFC0CB 50%);}
+.BICOLOR25{background:linear-gradient(90deg, #228B22 50%, #9ACD32 50%);}
+.BICOLOR26{background:linear-gradient(90deg, #228B22 50%, #9932CC 50%);}
+.BICOLOR27{background:linear-gradient(90deg, #228B22 50%, #A0522D 50%);}
+.BICOLOR28{background:linear-gradient(90deg, #228B22 50%, #C0C0C0 50%);}
+.BICOLOR29{background:linear-gradient(90deg, #228B22 50%, #F5F5F5 50%);}
+.BICOLOR30{background:linear-gradient(90deg, #228B22 50%, #000000 50%);}
+
+.BICOLOR31{background:linear-gradient(90deg, #4169E1 50%, #FFFF00 50%);}
+.BICOLOR32{background:linear-gradient(90deg, #4169E1 50%, #40E0D0 50%);}
+.BICOLOR33{background:linear-gradient(90deg, #4169E1 50%, #FFD700 50%);}
+.BICOLOR34{background:linear-gradient(90deg, #4169E1 50%, #FFC0CB 50%);}
+.BICOLOR35{background:linear-gradient(90deg, #4169E1 50%, #9ACD32 50%);}
+.BICOLOR36{background:linear-gradient(90deg, #4169E1 50%, #9932CC 50%);}
+.BICOLOR37{background:linear-gradient(90deg, #4169E1 50%, #A0522D 50%);}
+.BICOLOR38{background:linear-gradient(90deg, #4169E1 50%, #C0C0C0 50%);}
+.BICOLOR39{background:linear-gradient(90deg, #4169E1 50%, #F5F5F5 50%);}
+.BICOLOR40{background:linear-gradient(90deg, #4169E1 50%, #000000 50%);}
+
+.BICOLOR41{background:linear-gradient(90deg, #FFC0CB 50%, #FFFF00 50%);}
+.BICOLOR42{background:linear-gradient(90deg, #FFC0CB 50%, #40E0D0 50%);}
+.BICOLOR43{background:linear-gradient(90deg, #FFC0CB 50%, #FFD700 50%);}
+.BICOLOR44{background:linear-gradient(90deg, #FFC0CB 50%, #BC8F8F 50%);}
+.BICOLOR45{background:linear-gradient(90deg, #FFC0CB 50%, #9ACD32 50%);}
+.BICOLOR46{background:linear-gradient(90deg, #FFC0CB 50%, #9932CC 50%);}
+.BICOLOR47{background:linear-gradient(90deg, #FFC0CB 50%, #A0522D 50%);}
+.BICOLOR48{background:linear-gradient(90deg, #FFC0CB 50%, #C0C0C0 50%);}
+.BICOLOR49{background:linear-gradient(90deg, #FFC0CB 50%, #F5F5F5 50%);}
+.BICOLOR50{background:linear-gradient(90deg, #FFC0CB 50%, #000000 50%);}
+
+.BICOLOR51{background:linear-gradient(90deg, #C0C0C0 50%, #FFFF00 50%);}
+.BICOLOR52{background:linear-gradient(90deg, #C0C0C0 50%, #40E0D0 50%);}
+.BICOLOR53{background:linear-gradient(90deg, #C0C0C0 50%, #FFD700 50%);}
+.BICOLOR54{background:linear-gradient(90deg, #C0C0C0 50%, #BC8F8F 50%);}
+.BICOLOR55{background:linear-gradient(90deg, #C0C0C0 50%, #9ACD32 50%);}
+.BICOLOR56{background:linear-gradient(90deg, #C0C0C0 50%, #9932CC 50%);}
+.BICOLOR57{background:linear-gradient(90deg, #C0C0C0 50%, #A0522D 50%);}
+.BICOLOR58{background:linear-gradient(90deg, #C0C0C0 50%, #BDB76B 50%);}
+.BICOLOR59{background:linear-gradient(90deg, #C0C0C0 50%, #F5F5F5 50%);}
+.BICOLOR60{background:linear-gradient(90deg, #C0C0C0 50%, #000000 50%);}
+
+.BICOLOR61{background:linear-gradient(90deg, #9ACD32 50%, #FFFF00 50%);}
+.BICOLOR62{background:linear-gradient(90deg, #9ACD32 50%, #40E0D0 50%);}
+.BICOLOR63{background:linear-gradient(90deg, #9ACD32 50%, #FFD700 50%);}
+.BICOLOR64{background:linear-gradient(90deg, #9ACD32 50%, #BC8F8F 50%);}
+.BICOLOR65{background:linear-gradient(90deg, #9ACD32 50%, #008B8B 50%);}
+.BICOLOR66{background:linear-gradient(90deg, #9ACD32 50%, #9932CC 50%);}
+.BICOLOR67{background:linear-gradient(90deg, #9ACD32 50%, #A0522D 50%);}
+.BICOLOR68{background:linear-gradient(90deg, #9ACD32 50%, #C0C0C0 50%);}
+.BICOLOR69{background:linear-gradient(90deg, #9ACD32 50%, #F5F5F5 50%);}
+.BICOLOR70{background:linear-gradient(90deg, #9ACD32 50%, #000000 50%);}
+
+.BICOLOR71{background:linear-gradient(90deg, #F0E68C 50%, #BC8F8F 50%);}
+.BICOLOR72{background:linear-gradient(90deg, #F0E68C 50%, #DDA0DD 50%);}
+.BICOLOR73{background:linear-gradient(90deg, #F0E68C 50%, #F5F5F5 50%);}
+.BICOLOR74{background:linear-gradient(90deg, #000000 50%, #F5F5F5 50%);}
+
+.MULTICOLOR{background:linear-gradient(to right, red,orange,yellow,green,blue,indigo,violet);}
+
+._select_color_drop > li > .INDIANRED ,.btn._select_color > span.INDIANRED{background-color: #CD5C5C;}
+._select_color_drop > li > .LIGHTCORAL ,.btn._select_color > span.LIGHTCORAL{background-color: #F08080;}
+._select_color_drop > li > .SALMON ,.btn._select_color > span.SALMON{background-color: #FA8072;}
+._select_color_drop > li > .LIGHTSALMON ,.btn._select_color > span.LIGHTSALMON{background-color: #FFA07A;}
+._select_color_drop > li > .CRIMSON ,.btn._select_color > span.CRIMSON{background-color: #DC143C;}
+._select_color_drop > li > .RED ,.btn._select_color > span.RED{background-color: #FF0000;}
+._select_color_drop > li > .ORANGERED ,.btn._select_color > span.ORANGERED{background-color: #FF4500;}
+._select_color_drop > li > .ORANGE ,.btn._select_color > span.ORANGE{background-color: #FFA500;}
+._select_color_drop > li > .GOLD ,.btn._select_color > span.GOLD{background-color: #FFD700;}
+._select_color_drop > li > .YELLOW ,.btn._select_color > span.YELLOW{background-color: #FFFF00;}
+._select_color_drop > li > .DARKRED ,.btn._select_color > span.DARKRED{background-color: #8B0000;}
+/*fin de rojos*/
+/*inicio de rosas*/
+._select_color_drop > li > .PINK ,.btn._select_color > span.PINK{background-color: #FFC0CB;}
+._select_color_drop > li > .HOTPINK ,.btn._select_color > span.HOTPINK{background-color: #FF69B4;}
+._select_color_drop > li > .DEEPPINK ,.btn._select_color > span.DEEPPINK{background-color: #FF1493;}
+._select_color_drop > li > .MEDIUMVIOLETRED ,.btn._select_color > span.MEDIUMVIOLETRED{background-color: #C71585;}
+._select_color_drop > li > .PALEVIOLETRED ,.btn._select_color > span.PALEVIOLETRED{background-color: #DB7093;}
+/*fin de rosas*/
+/*inicio de morados*/
+._select_color_drop > li > .LAVENDER ,.btn._select_color > span.LAVENDER{background-color: #E6E6FA;}
+._select_color_drop > li > .THISTLE ,.btn._select_color > span.THISTLE{background-color:#D8BFD8;}
+._select_color_drop > li > .VIOLET ,.btn._select_color > span.VIOLET{background-color: #EE82EE;}
+._select_color_drop > li > .FUCHSIA ,.btn._select_color > span.FUCHSIA{background-color: #FF00FF;}
+._select_color_drop > li > .REBECCAPURPLE ,.btn._select_color > span.REBECCAPURPLE{background-color: #663399;}
+._select_color_drop > li > .BLUEVIOLET ,.btn._select_color > span.BLUEVIOLET{background-color:#8A2BE2;}
+._select_color_drop > li > .DARKVIOLET ,.btn._select_color > span.DARKVIOLET{background-color: #9400D3;}
+._select_color_drop > li > .PURPLE ,.btn._select_color > span.PURPLE{background-color: #800080;}
+._select_color_drop > li > .INDIGO ,.btn._select_color > span.INDIGO{background-color: #4B0082;}
+._select_color_drop > li > .SLATEBLUE ,.btn._select_color > span.SLATEBLUE{background-color: #6A5ACD;}
+/*fin de morados*/
+/*inicio de azules y celestes*/
+._select_color_drop > li > .DEEPSKYBLUE ,.btn._select_color > span.DEEPSKYBLUE{background-color: #00BFFF;}
+._select_color_drop > li > .CYAN ,.btn._select_color > span.CYAN{background-color: #00FFFF;}
+._select_color_drop > li > .TURQUOISE ,.btn._select_color > span.TURQUOISE{background-color: #40E0D0;}
+._select_color_drop > li > .DODGERBLUE ,.btn._select_color > span.DODGERBLUE{background-color:#1E90FF;}
+._select_color_drop > li > .CADETBLUE ,.btn._select_color > span.CADETBLUE{background-color:#5F9EA0;}
+._select_color_drop > li > .BLUE ,.btn._select_color > span.BLUE{background-color: #0000FF;}
+._select_color_drop > li > .DARKBLUE ,.btn._select_color > span.DARKBLUE{background-color: #00008B;}
+._select_color_drop > li > .REBECCAPURPLE ,.btn._select_color > span.REBECCAPURPLE{background-color: #663399;}
+/*fin de azules y celestes*/
+/*inicio de verdes*/
+._select_color_drop > li > .TEAL ,.btn._select_color > span.TEAL{background-color: #008080;}
+._select_color_drop > li > .MEDIUMAQUAMARINE ,.btn._select_color > span.MEDIUMAQUAMARINE{background-color: #66CDAA;}
+._select_color_drop > li > .DARKSEAGREEN ,.btn._select_color > span.DARKSEAGREEN{background-color: #8FBC8B;}
+._select_color_drop > li > .DARKOLIVEGREEN ,.btn._select_color > span.DARKOLIVEGREEN{background-color:#556B2F;}
+._select_color_drop > li > .OLIVE ,.btn._select_color > span.OLIVE{background-color:#808000;}
+._select_color_drop > li > .YELLOWGREEN ,.btn._select_color > span.YELLOWGREEN{background-color:#9ACD32 ;}
+._select_color_drop > li > .GREEN ,.btn._select_color > span.GREEN{background-color:#008000;}
+._select_color_drop > li > .SEAGREEN ,.btn._select_color > span.SEAGREEN{background-color: #2E8B57;}
+._select_color_drop > li > .MEDIUMSPRINGGREEN ,.btn._select_color > span.MEDIUMSPRINGGREEN{background-color:#00FA9A ;}
+._select_color_drop > li > .LAWNGREEN ,.btn._select_color > span.LAWNGREEN{background-color:#7CFC00;}
+/*fin de verdes*/
+/*inicio de cafes*/
+._select_color_drop > li > .SIENNA ,.btn._select_color > span.SIENNA{background-color: #A0522D;}
+._select_color_drop > li > .CHOCOLATE ,.btn._select_color > span.CHOCOLATE{background-color: #D2691E;}
+._select_color_drop > li > .PERU ,.btn._select_color > span.PERU{background-color: #CD853F;}
+._select_color_drop > li > .DARKGOLDENROD ,.btn._select_color > span.DARKGOLDENROD{background-color:#B8860B;}
+._select_color_drop > li > .GOLDENROD ,.btn._select_color > span.GOLDENROD{background-color:#DAA520;}
+._select_color_drop > li > .SANDYBROWN ,.btn._select_color > span.SANDYBROWN{background-color:#F4A460 ;}
+._select_color_drop > li > .ROSYBROWN ,.btn._select_color > span.ROSYBROWN{background-color:#BC8F8F;}
+._select_color_drop > li > .TAN ,.btn._select_color > span.TAN{background-color: #D2B48C;}
+._select_color_drop > li > .NAVAJOWHITE ,.btn._select_color > span.NAVAJOWHITE{background-color:#FFDEAD ;}
+._select_color_drop > li > .BISQUE ,.btn._select_color > span.BISQUE{background-color:#FFE4C4;}
+._select_color_drop > li > .WHITE ,.btn._select_color > span.WHITE{background-color:#F5F5F5;}
+/*fin de cafes*/
+/*inicio de grises*/
+._select_color_drop > li > .LIGHTGRAY ,.btn._select_color > span.LIGHTGRAY{background-color: #D3D3D3;}
+._select_color_drop > li > .DARKGRAY ,.btn._select_color > span.DARKGRAY{background-color: #A9A9A9;}
+._select_color_drop > li > .DIMGRAY ,.btn._select_color > span.DIMGRAY{background-color: #696969;}
+._select_color_drop > li > .SLATEGRAY ,.btn._select_color > span.SLATEGRAY{background-color:#708090;}
+._select_color_drop > li > .DARKSLATEGRAY ,.btn._select_color > span.DARKSLATEGRAY{background-color:#2F4F4F;}
+._select_color_drop > li > .BLACK ,.btn._select_color > span.BLACK{background-color:#000000 ;}
+
+/*fin de grises*/
+/*inicio de bicolor*/
+._select_color_drop > li > .BICOLOR1 ,.btn._select_color > span.BICOLOR1{background:linear-gradient(90deg, #FF0000 50%, #FF8C00 50%);}
+._select_color_drop > li > .BICOLOR2 ,.btn._select_color > span.BICOLOR2{background:linear-gradient(90deg, #FF0000 50%, #6B8E23 50%);}
+._select_color_drop > li > .BICOLOR3 ,.btn._select_color > span.BICOLOR3{background:linear-gradient(90deg, #FF0000 50%, #48D1CC 50%);}
+._select_color_drop > li > .BICOLOR4 ,.btn._select_color > span.BICOLOR4{background:linear-gradient(90deg, #FF0000 50%, #4169E1 50%);}
+._select_color_drop > li > .BICOLOR5 ,.btn._select_color > span.BICOLOR5{background:linear-gradient(90deg, #FF0000 50%, #FFC0CB 50%);}
+._select_color_drop > li > .BICOLOR6 ,.btn._select_color > span.BICOLOR6{background:linear-gradient(90deg, #FF0000 50%, #9932CC 50%);}
+._select_color_drop > li > .BICOLOR7 ,.btn._select_color > span.BICOLOR7{background:linear-gradient(90deg, #FF0000 50%, #C0C0C0 50%);}
+._select_color_drop > li > .BICOLOR8 ,.btn._select_color > span.BICOLOR8{background:linear-gradient(90deg, #FF0000 50%, #F5F5F5 50%);}
+._select_color_drop > li > .BICOLOR9 ,.btn._select_color > span.BICOLOR9{background:linear-gradient(90deg, #FF0000 50%, #FFFF00 50%);}
+._select_color_drop > li > .BICOLOR10 ,.btn._select_color > span.BICOLOR10{background:linear-gradient(90deg, #FF0000 50%, #000000 50%);}
+
+._select_color_drop > li > .BICOLOR11 ,.btn._select_color > span.BICOLOR11{background:linear-gradient(90deg, #FFA500 50%, #FFFF00 50%);}
+._select_color_drop > li > .BICOLOR12 ,.btn._select_color > span.BICOLOR12{background:linear-gradient(90deg, #FFA500 50%, #40E0D0 50%);}
+._select_color_drop > li > .BICOLOR13 ,.btn._select_color > span.BICOLOR13{background:linear-gradient(90deg, #FFA500 50%, #4169E1 50%);}
+._select_color_drop > li > .BICOLOR14 ,.btn._select_color > span.BICOLOR14{background:linear-gradient(90deg, #FFA500 50%, #FFC0CB 50%);}
+._select_color_drop > li > .BICOLOR15 ,.btn._select_color > span.BICOLOR15{background:linear-gradient(90deg, #FFA500 50%, #228B22 50%);}
+._select_color_drop > li > .BICOLOR16 ,.btn._select_color > span.BICOLOR16{background:linear-gradient(90deg, #FFA500 50%, #9932CC 50%);}
+._select_color_drop > li > .BICOLOR17 ,.btn._select_color > span.BICOLOR17{background:linear-gradient(90deg, #FFA500 50%, #A0522D 50%);}
+._select_color_drop > li > .BICOLOR18 ,.btn._select_color > span.BICOLOR18{background:linear-gradient(90deg, #FFA500 50%, #C0C0C0 50%);}
+._select_color_drop > li > .BICOLOR19 ,.btn._select_color > span.BICOLOR19{background:linear-gradient(90deg, #FFA500 50%, #F5F5F5 50%);}
+._select_color_drop > li > .BICOLOR20 ,.btn._select_color > span.BICOLOR20{background:linear-gradient(90deg, #FFA500 50%, #000000 50%);}
+
+._select_color_drop > li > .BICOLOR21 ,.btn._select_color > span.BICOLOR21{background:linear-gradient(90deg, #228B22 50%, #FFFF00 50%);}
+._select_color_drop > li > .BICOLOR22 ,.btn._select_color > span.BICOLOR22{background:linear-gradient(90deg, #228B22 50%, #40E0D0 50%);}
+._select_color_drop > li > .BICOLOR23 ,.btn._select_color > span.BICOLOR23{background:linear-gradient(90deg, #228B22 50%, #4169E1 50%);}
+._select_color_drop > li > .BICOLOR24 ,.btn._select_color > span.BICOLOR24{background:linear-gradient(90deg, #228B22 50%, #FFC0CB 50%);}
+._select_color_drop > li > .BICOLOR25 ,.btn._select_color > span.BICOLOR25{background:linear-gradient(90deg, #228B22 50%, #9ACD32 50%);}
+._select_color_drop > li > .BICOLOR26 ,.btn._select_color > span.BICOLOR26{background:linear-gradient(90deg, #228B22 50%, #9932CC 50%);}
+._select_color_drop > li > .BICOLOR27 ,.btn._select_color > span.BICOLOR27{background:linear-gradient(90deg, #228B22 50%, #A0522D 50%);}
+._select_color_drop > li > .BICOLOR28 ,.btn._select_color > span.BICOLOR28{background:linear-gradient(90deg, #228B22 50%, #C0C0C0 50%);}
+._select_color_drop > li > .BICOLOR29 ,.btn._select_color > span.BICOLOR29{background:linear-gradient(90deg, #228B22 50%, #F5F5F5 50%);}
+._select_color_drop > li > .BICOLOR30 ,.btn._select_color > span.BICOLOR30{background:linear-gradient(90deg, #228B22 50%, #000000 50%);}
+
+._select_color_drop > li > .BICOLOR31 ,.btn._select_color > span.BICOLOR31{background:linear-gradient(90deg, #4169E1 50%, #FFFF00 50%);}
+._select_color_drop > li > .BICOLOR32 ,.btn._select_color > span.BICOLOR32{background:linear-gradient(90deg, #4169E1 50%, #40E0D0 50%);}
+._select_color_drop > li > .BICOLOR33 ,.btn._select_color > span.BICOLOR33{background:linear-gradient(90deg, #4169E1 50%, #FFD700 50%);}
+._select_color_drop > li > .BICOLOR34 ,.btn._select_color > span.BICOLOR34{background:linear-gradient(90deg, #4169E1 50%, #FFC0CB 50%);}
+._select_color_drop > li > .BICOLOR35 ,.btn._select_color > span.BICOLOR35{background:linear-gradient(90deg, #4169E1 50%, #9ACD32 50%);}
+._select_color_drop > li > .BICOLOR36 ,.btn._select_color > span.BICOLOR36{background:linear-gradient(90deg, #4169E1 50%, #9932CC 50%);}
+._select_color_drop > li > .BICOLOR37 ,.btn._select_color > span.BICOLOR37{background:linear-gradient(90deg, #4169E1 50%, #A0522D 50%);}
+._select_color_drop > li > .BICOLOR38 ,.btn._select_color > span.BICOLOR38{background:linear-gradient(90deg, #4169E1 50%, #C0C0C0 50%);}
+._select_color_drop > li > .BICOLOR39 ,.btn._select_color > span.BICOLOR39{background:linear-gradient(90deg, #4169E1 50%, #F5F5F5 50%);}
+._select_color_drop > li > .BICOLOR40 ,.btn._select_color > span.BICOLOR40{background:linear-gradient(90deg, #4169E1 50%, #000000 50%);}
+
+._select_color_drop > li > .BICOLOR41 ,.btn._select_color > span.BICOLOR41{background:linear-gradient(90deg, #FFC0CB 50%, #FFFF00 50%);}
+._select_color_drop > li > .BICOLOR42 ,.btn._select_color > span.BICOLOR42{background:linear-gradient(90deg, #FFC0CB 50%, #40E0D0 50%);}
+._select_color_drop > li > .BICOLOR43 ,.btn._select_color > span.BICOLOR43{background:linear-gradient(90deg, #FFC0CB 50%, #FFD700 50%);}
+._select_color_drop > li > .BICOLOR44 ,.btn._select_color > span.BICOLOR44{background:linear-gradient(90deg, #FFC0CB 50%, #BC8F8F 50%);}
+._select_color_drop > li > .BICOLOR45 ,.btn._select_color > span.BICOLOR45{background:linear-gradient(90deg, #FFC0CB 50%, #9ACD32 50%);}
+._select_color_drop > li > .BICOLOR46 ,.btn._select_color > span.BICOLOR46{background:linear-gradient(90deg, #FFC0CB 50%, #9932CC 50%);}
+._select_color_drop > li > .BICOLOR47 ,.btn._select_color > span.BICOLOR47{background:linear-gradient(90deg, #FFC0CB 50%, #A0522D 50%);}
+._select_color_drop > li > .BICOLOR48 ,.btn._select_color > span.BICOLOR48{background:linear-gradient(90deg, #FFC0CB 50%, #C0C0C0 50%);}
+._select_color_drop > li > .BICOLOR49 ,.btn._select_color > span.BICOLOR49{background:linear-gradient(90deg, #FFC0CB 50%, #F5F5F5 50%);}
+._select_color_drop > li > .BICOLOR50 ,.btn._select_color > span.BICOLOR50{background:linear-gradient(90deg, #FFC0CB 50%, #000000 50%);}
+
+._select_color_drop > li > .BICOLOR51 ,.btn._select_color > span.BICOLOR51{background:linear-gradient(90deg, #C0C0C0 50%, #FFFF00 50%);}
+._select_color_drop > li > .BICOLOR52 ,.btn._select_color > span.BICOLOR52{background:linear-gradient(90deg, #C0C0C0 50%, #40E0D0 50%);}
+._select_color_drop > li > .BICOLOR53 ,.btn._select_color > span.BICOLOR53{background:linear-gradient(90deg, #C0C0C0 50%, #FFD700 50%);}
+._select_color_drop > li > .BICOLOR54 ,.btn._select_color > span.BICOLOR54{background:linear-gradient(90deg, #C0C0C0 50%, #BC8F8F 50%);}
+._select_color_drop > li > .BICOLOR55 ,.btn._select_color > span.BICOLOR55{background:linear-gradient(90deg, #C0C0C0 50%, #9ACD32 50%);}
+._select_color_drop > li > .BICOLOR56 ,.btn._select_color > span.BICOLOR56{background:linear-gradient(90deg, #C0C0C0 50%, #9932CC 50%);}
+._select_color_drop > li > .BICOLOR57 ,.btn._select_color > span.BICOLOR57{background:linear-gradient(90deg, #C0C0C0 50%, #A0522D 50%);}
+._select_color_drop > li > .BICOLOR58 ,.btn._select_color > span.BICOLOR58{background:linear-gradient(90deg, #C0C0C0 50%, #BDB76B 50%);}
+._select_color_drop > li > .BICOLOR59 ,.btn._select_color > span.BICOLOR59{background:linear-gradient(90deg, #C0C0C0 50%, #F5F5F5 50%);}
+._select_color_drop > li > .BICOLOR60 ,.btn._select_color > span.BICOLOR60{background:linear-gradient(90deg, #C0C0C0 50%, #000000 50%);}
+
+._select_color_drop > li > .BICOLOR61 ,.btn._select_color > span.BICOLOR61{background:linear-gradient(90deg, #9ACD32 50%, #FFFF00 50%);}
+._select_color_drop > li > .BICOLOR62 ,.btn._select_color > span.BICOLOR62{background:linear-gradient(90deg, #9ACD32 50%, #40E0D0 50%);}
+._select_color_drop > li > .BICOLOR63 ,.btn._select_color > span.BICOLOR63{background:linear-gradient(90deg, #9ACD32 50%, #FFD700 50%);}
+._select_color_drop > li > .BICOLOR64 ,.btn._select_color > span.BICOLOR64{background:linear-gradient(90deg, #9ACD32 50%, #BC8F8F 50%);}
+._select_color_drop > li > .BICOLOR65 ,.btn._select_color > span.BICOLOR65{background:linear-gradient(90deg, #9ACD32 50%, #008B8B 50%);}
+._select_color_drop > li > .BICOLOR66 ,.btn._select_color > span.BICOLOR66{background:linear-gradient(90deg, #9ACD32 50%, #9932CC 50%);}
+._select_color_drop > li > .BICOLOR67 ,.btn._select_color > span.BICOLOR67{background:linear-gradient(90deg, #9ACD32 50%, #A0522D 50%);}
+._select_color_drop > li > .BICOLOR68 ,.btn._select_color > span.BICOLOR68{background:linear-gradient(90deg, #9ACD32 50%, #C0C0C0 50%);}
+._select_color_drop > li > .BICOLOR69 ,.btn._select_color > span.BICOLOR69{background:linear-gradient(90deg, #9ACD32 50%, #F5F5F5 50%);}
+._select_color_drop > li > .BICOLOR70 ,.btn._select_color > span.BICOLOR70{background:linear-gradient(90deg, #9ACD32 50%, #000000 50%);}
+
+._select_color_drop > li > .BICOLOR71 ,.btn._select_color > span.BICOLOR71{background:linear-gradient(90deg, #F0E68C 50%, #BC8F8F 50%);}
+._select_color_drop > li > .BICOLOR72 ,.btn._select_color > span.BICOLOR72{background:linear-gradient(90deg, #F0E68C 50%, #DDA0DD 50%);}
+._select_color_drop > li > .BICOLOR73 ,.btn._select_color > span.BICOLOR73{background:linear-gradient(90deg, #F0E68C 50%, #F5F5F5 50%);}
+._select_color_drop > li > .BICOLOR74 ,.btn._select_color > span.BICOLOR74{background:linear-gradient(90deg, #000000 50%, #F5F5F5 50%);}
+
+._select_color_drop > li > .MULTICOLOR ,.btn._select_color > span.MULTICOLOR{background:linear-gradient(to right, red,orange,yellow,green,blue,indigo,violet);}

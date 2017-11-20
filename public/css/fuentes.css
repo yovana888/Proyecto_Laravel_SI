@@ -1,0 +1,8 @@
+@font-face{
+    font-family:courier new;
+    src:url("/fonts/cour.ttf");
+}
+
+p{
+    font-family:courier;
+}
