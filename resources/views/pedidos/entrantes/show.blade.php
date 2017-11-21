@@ -77,7 +77,19 @@
 @push ('scripts')
 
 <script>
- 
+ //editar
+
+  $("#btn1-{{$del->iddetalle_pedido}}").click(function(){
+    $("#edit1-{{$det->iddetalle_pedido}}").prop( "disabled",false);
+    $("#edit2-{{$det->iddetalle_pedido}}").prop( "disabled",false);
+    $("#btn2-{{$det->iddetalle_pedido}}").prop( "disabled",false);
+});
+//cancelar
+$("#btn3-{{$del->iddetalle_pedido}}").click(function(){
+  $("#edit1-{{$det->iddetalle_pedido}}").prop( "disabled",true);
+  $("#edit2-{{$det->iddetalle_pedido}}").prop( "disabled",true);
+  $("#btn2-{{$det->iddetalle_pedido}}").prop( "disabled",true);
+});
     
 </script>
 
